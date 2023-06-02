@@ -4,7 +4,7 @@
 
 #include<iostream>
 using namespace std;
-
+// Big O(N) Time Complexity
 int LinearFunction(int n){
     int res = 0;
 
